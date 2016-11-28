@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SpotifyQuiz</string>
+    <string name="api_key">1e3df59a3b804ed2a58b1cc85fe374eb</string>
+    <string name="web_service_url">https://api.spotify.com</string>
+    <string name="invalid_url">Invalid URL</string>
+    <string name="song_album_image">Image of song\'s album</string>
+    <string name="question">Question %1$d of %2$d</string>
+    <string name="reset_quiz">Reset Quiz</string>
+    <string name="incorrect_answer">Incorrect!</string>
+    <string name="guess_song">Guess the Song</string>
+    <string name="connect_error">Unable to connect to Spotify.com</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
